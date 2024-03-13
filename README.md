@@ -1,3 +1,7 @@
+# German and Englisch 
+
+# German
+
 # Mein LinkedIn-Chat-Clone Projekt
 
 Willkommen zu meinem tollen Projekt! Dies ist ein Beispiel-Repository für GitHub.
@@ -19,3 +23,47 @@ Nach der Installation können Sie auf die Anwendung unter http://localhost:3000 
 
 Mitwirkende
 Sven Janorschke joschy0709@gmail.com
+
+
+# Englisch
+
+# My LinkedIn Chat Clone Project
+
+Welcome to my awesome project! This is a sample repository for GitHub.
+
+## Installation
+
+Follow these steps to install the project on your local system:
+
+1. Clone the repository to your computer:
+
+    ```
+    git clone https://git@github.com:Joschy1976/LinkedIn-Chat-Clone.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```
+    cd LinkedIn-Chat-Clone
+    ```
+
+3. Install the dependencies:
+
+    ```
+    npm install
+    ```
+
+4. Start the application:
+
+    ```
+    npm start
+    ```
+
+## Usage
+
+After installation, you can access the application at http://localhost:3000.
+
+## Contributors
+
+Sven Janorschke  
+Email: joschy0709@gmail.com
